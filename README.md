@@ -27,6 +27,13 @@ I use simulation, experimental validation, and practical engineering judgment to
 - SolidWorks experimental facility and mechanical test setup design
 - Asset integrity and reliability documentation for oil and gas equipment
 
+## Project Repositories
+
+- [CFD Erosion Modeling](https://github.com/mubashirhasan333/cfd-erosion-modeling): particle-laden internal flow, meshing, particle tracking, erosion prediction, and CFD reporting.
+- [Pipeline And Flow-System Calculations](https://github.com/mubashirhasan333/pipeline-flow-calculations): pressure-drop calculations, pipeline networks, pumps, compressors, and scenario comparison.
+- [SolidWorks Experimental Facility Design](https://github.com/mubashirhasan333/solidworks-test-facility): CAD modeling, assembly planning, test-section layout, and design-for-fabrication communication.
+- [Asset Integrity And Reliability Analysis](https://github.com/mubashirhasan333/asset-integrity-data-analysis): FMECA, maintenance planning, risk matrices, remaining life support, and engineering data analysis.
+
 ## Current Direction
 
 I am interested in roles related to CFD engineering, fluid systems, flow assurance, asset integrity, pipeline integrity, corrosion/reliability engineering, simulation, and mechanical design.
