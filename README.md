@@ -17,6 +17,7 @@ I use simulation, experimental validation, and practical engineering judgment to
 **Simulation and CAE:** ANSYS Fluent, ANSYS ICEM CFD, CFD-Post, SpaceClaim, SolidWorks Simulation  
 **CAD:** SolidWorks, Siemens NX, SpaceClaim  
 **Programming and data:** Python, pandas, NumPy, Excel, VBA, MATLAB basics  
+**AI and machine learning coursework:** Machine Learning Specialization, Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders, Reinforcement Learning, AI Python for Beginners  
 **Engineering domains:** fluid mechanics, heat transfer, erosion/corrosion, asset integrity, piping, mechanical systems  
 
 ## Selected Work
